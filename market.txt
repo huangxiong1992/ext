@@ -1,0 +1,44 @@
+[
+    {
+        "name": "接口信息",
+        "list": [
+        {
+                "name": "野草助手TV版",
+                "url": "currentVersion",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            },
+            {
+                "name": "电视工具箱",
+                "url": "https://chigua.eu.org",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            },
+            {
+                "name": "电视百宝箱",
+                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/README.md",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            },
+            {
+                "name": "免费分享",
+                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/CHANGELOG.md",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            },
+            {
+                "name": "仅供个人测试，祝您生活愉快！",
+                "url": "latestVersion",
+                "icon": "",
+                "copy": "",
+                "version": ""
+            }
+        ]
+    }
+        ]
+    }
+]
