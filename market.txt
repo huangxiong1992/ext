@@ -1,22 +1,22 @@
 [
     
     {
-        "name": "WH影视",
+        "name": "应用商店",
         "list": [
             {
-                "name": "WH影视",
-                "url": "https://v6.gh-proxy.org/https://github.com/fish2018/webhtv/releases/latest/download/leanback-armeabi_v7a.apk",
+                "name": "电视百宝箱",
+                "url": "https://huangxiong.lanzoui.com/b00wmt9vdi#pwd=2099",
                 "icon": "",
                 "version": "电视32位"
             },
             {
-                "name": "WH影视",
-                "url": "https://v6.gh-proxy.org/https://github.com/fish2018/webhtv/releases/latest/download/leanback-arm64_v8a.apk",
+                "name": "电视工具箱",
+                "url": "https://huangxiong.lanzoui.com/b00wm22egf?pwd=1949",
                 "icon": "",
                 "version": "电视64位"
             },
             {
-                "name": "WH影视",
+                "name": "长期维护更新中",
                 "url": "https://v6.gh-proxy.org/https://github.com/fish2018/webhtv/releases/latest/download/mobile-arm64_v8a.apk",
                 "icon": "",
                 "version": "手机64位"
@@ -24,36 +24,7 @@
         ]
     },
     {
-        "name": "蜂蜜影视",
-        "list": [
-            {
-                "name": "蜂蜜影视",
-                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-armeabi_v7a.apk",
-                "icon": "",
-                "version": "电视32位"
-            },
-            {
-                "name": "蜂蜜影视",
-                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/leanback-arm64_v8a.apk",
-                "icon": "",
-                "version": "电视64位"
-            },
-            {
-                "name": "蜂蜜影视",
-                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-armeabi_v7a.apk",
-                "icon": "",
-                "version": "手机32位"
-            },
-            {
-                "name": "蜂蜜影视",
-                "url": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/FongMi/Release/fongmi/apk/mobile-arm64_v8a.apk",
-                "icon": "",
-                "version": "手机64位"
-            }
-        ]
-    },
-    {
-        "name": "网盘资源",
+        "name": "免费分享",
         "list": [
             {
                 "name": "百度",
