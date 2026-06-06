@@ -5,7 +5,7 @@
         "list": [
             {
                 "name": "电视百宝箱",
-                "url": "https://huangxiong.lanzoui.com/b00wmt9vdi#pwd=2099",
+                "url": "http://app.999219.xyz/hx/app/1.apk",
                 "icon": "",
                 "version": "电视32位"
             },
