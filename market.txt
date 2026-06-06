@@ -10,12 +10,6 @@
                 "version": "电视32位"
             },
             {
-                "name": "电视工具箱",
-                "url": "https://huangxiong.lanzoui.com/b00wm22egf?pwd=1949",
-                "icon": "",
-                "version": "电视64位"
-            },
-            {
                 "name": "长期维护更新中",
                 "url": "https://v6.gh-proxy.org/https://github.com/fish2018/webhtv/releases/latest/download/mobile-arm64_v8a.apk",
                 "icon": "",
